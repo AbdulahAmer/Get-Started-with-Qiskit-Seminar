@@ -1,4 +1,7 @@
 # Get-Started-with-Qiskit-Seminar
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22837525.svg)](https://doi.org/10.5281/zenodo.22837525)
+
 Learn about Quantum Computation and get started with Qiskit and Python! 
 
 In my Quantum computation and Quantum Information course, we used Qiskit and Python to create our own quantum circuits and some project 
