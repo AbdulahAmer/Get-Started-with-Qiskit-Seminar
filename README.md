@@ -13,3 +13,6 @@ to help create this little seminar.
 
 If you have any questions or concerns please message me: abdulahamer97@gmail.com
 
+## License
+Code (`Seminar.ipynb`, `Seminar.py`, `Teaching!.py`) is licensed under [Apache 2.0](LICENSE). The educational content (`Seminar.pdf`) is licensed under [CC BY-NC 4.0](LICENSE-CONTENT).
+
