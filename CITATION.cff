@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+
+message: >
+  If you use code or educational materials from this repository,
+  please cite this repository. Source code is licensed under
+  Apache-2.0. Educational content is licensed under CC BY-NC 4.0.
+
+authors:
+  - family-names: "Amer"
+    given-names: "Abdulah"
+
+title: "Get Started with Qiskit Seminar"
+repository-code: "https://github.com/AbdulahAmer/Get-Started-with-Qiskit-Seminar"
+
+url: "https://github.com/AbdulahAmer/Get-Started-with-Qiskit-Seminar"
