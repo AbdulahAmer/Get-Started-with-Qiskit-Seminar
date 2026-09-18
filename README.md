@@ -14,5 +14,24 @@ to help create this little seminar.
 If you have any questions or concerns please message me: abdulahamer97@gmail.com
 
 ## License
-Code (`Seminar.ipynb`, `Seminar.py`, `Teaching!.py`) is licensed under [Apache 2.0](LICENSE). The educational content (`Seminar.pdf`) is licensed under [CC BY-NC 4.0](LICENSE-CONTENT).
+
+This repository uses separate licenses for software and educational content.
+
+### Source code
+
+Source code, including Python and Qiskit code examples, is licensed under the
+Apache License 2.0.
+
+### Educational content
+
+Written educational material, explanations, instructional text, slides,
+figures, and other non-code educational content are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0).
+
+## Citation
+
+If you use this repository in academic work, please cite the repository.
+
+See `CITATION.cff` for citation metadata.
 

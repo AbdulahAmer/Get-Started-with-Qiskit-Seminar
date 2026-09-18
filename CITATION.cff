@@ -1,15 +1,23 @@
 cff-version: 1.2.0
-
 message: >
-  If you use code or educational materials from this repository,
-  please cite this repository. Source code is licensed under
-  Apache-2.0. Educational content is licensed under CC BY-NC 4.0.
+  If you use this repository in academic work,
+  please cite it using the citation below.
+
+title: "Get Started with Qiskit Seminar"
+type: software
+version: 1.0.0
+date-released: "2026-09-18"
 
 authors:
   - family-names: "Amer"
     given-names: "Abdulah"
 
-title: "Get Started with Qiskit Seminar"
 repository-code: "https://github.com/AbdulahAmer/Get-Started-with-Qiskit-Seminar"
-
 url: "https://github.com/AbdulahAmer/Get-Started-with-Qiskit-Seminar"
+
+keywords:
+  - Qiskit
+  - quantum computing
+  - quantum programming
+  - education
+  - Python
